@@ -1,4 +1,4 @@
-# Primeiros passos com o aplicativo Create React
+# Primeiros passos com React
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
